@@ -1,0 +1,4 @@
+#Thu Nov 05 10:08:50 ECT 2020
+base.0=/Users/davidmendozaloor/AndroidStudioProjects/mediconline/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
