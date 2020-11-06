@@ -5,7 +5,7 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="14"
+        android:minSdkVersion="16"
         android:targetSdkVersion="29" />
 
     <application
@@ -18,16 +18,20 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.mediconline.formulario_registro" />
         <activity
-            android:name="com.example.mediconline.MainActivity"
-            android:label="@string/app_name"
+            android:name="com.example.mediconline.splash"
             android:theme="@style/AppTheme.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name="com.example.mediconline.formulario_registro" />
+        <activity
+            android:name="com.example.mediconline.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
         </activity>
     </application>
 

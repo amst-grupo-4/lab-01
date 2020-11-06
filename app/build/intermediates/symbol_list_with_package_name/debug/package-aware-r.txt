@@ -1044,6 +1044,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable splash
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
@@ -1222,6 +1223,7 @@ id snackbar_text
 id snap
 id snapMargins
 id spacer
+id splashscreen
 id split_action_bar
 id spread
 id spread_inside
@@ -1328,6 +1330,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_formulario_registro
 layout activity_main
+layout activity_splash
 layout content_main
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

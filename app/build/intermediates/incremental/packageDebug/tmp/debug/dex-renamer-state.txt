@@ -1,4 +1,4 @@
-#Thu Nov 05 10:08:50 ECT 2020
-base.0=/Users/davidmendozaloor/AndroidStudioProjects/mediconline/app/build/intermediates/dex/debug/out/classes.dex
+#Thu Nov 05 21:45:11 COT 2020
+base.0=C\:\\Users\\Public\\Documents\\Android\\lab-01\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
